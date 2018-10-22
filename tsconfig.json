@@ -5,6 +5,7 @@
         "sourceMap": true,
         "declaration": true,
         "declarationDir": "./dist/typing",
+        "experimentalDecorators": true,
         "lib": [
             "webworker",
             "es6",
